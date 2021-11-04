@@ -5,5 +5,5 @@
 * Breaking Work into a Structure (articulate scope in a highly structured way)
 * Numbering and Subnumbering is being used in the WBS Hierarchy
 * Uses Network Chart and Gnatt Chart to describe WBS
-* WBS can be done in Microsoft Project
+* WBS can be done in Microsoft Project - where each task should be MECE (Mutually Exclusive and Completely Exhaustive)
 > 123
