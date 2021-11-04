@@ -7,3 +7,4 @@
 * Uses Network Chart and Gnatt Chart to describe WBS
 * WBS can be done in Microsoft Project - where each task should be MECE (Mutually Exclusive and Completely Exhaustive)
 > 123
+![123](123.png)
