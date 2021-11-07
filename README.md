@@ -8,3 +8,4 @@
 * WBS can be done in Microsoft Project - where each task should be MECE (Mutually Exclusive and Completely Exhaustive)
 > PM Phases - IPECC
 ![pm_phases](pm_phases.jpeg)
+![procurenemnt_planning](procurement_planning.png)
