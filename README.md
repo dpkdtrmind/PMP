@@ -1,14 +1,15 @@
-#PMP Topics
-* 1
-* 2
-* 3
-* 4
-* 5
-* 6
-* 7
-* 8
-* 9
-* 10
+#PMP Guide Topics
+* Project Environment
+* PM Role
+* Integration Management
+* Scope Management
+* Cost Management
+* Quality Management
+* Resource Managemenet
+* Communications Management
+* Risk Management
+* Procurement Management
+* Stakeholder Management
 
 # PMP Terminology
 > RTM (Requirement Traceability Matrix) - https://youtu.be/Kz6LNepwJ4c
@@ -22,3 +23,10 @@
 ![pm_phases](pm_phases.jpeg)
 > Procurement Planning
 ![procurenemnt_planning](procurement_planning.png)
+
+> PM Standard (IPECC)
+* Project Initiation/Project Charter
+* Project Planning
+* Project Execution
+* Project Control
+* Project Close
